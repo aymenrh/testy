@@ -5,6 +5,7 @@ public class Test {
 	
 	// this my second commit
 	// this will be shown only after i commit  !!
+	// Test another comment
 	private Integer id;
 	private String nom;
 	
